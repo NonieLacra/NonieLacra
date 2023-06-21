@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nonie Lacra</h1>
-<h3 align="center">A passionate Full-stack Developer from Philippines</h3>
+<h3 align="center">An inspired Full-stack Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nonielacra&label=Profile%20views&color=0e75b6&style=flat" alt="nonielacra" /> </p>
 
 - 🔭 I’m currently working on **MDI Novare**
 
-- 🌱 I’m currently learning **full-stack development**
+- 🌱 I’m currently learning **Full-stack Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **PHP, Javascript and Java**
 
 - 📫 How to reach me **nonielacra@gmail.com**
 
